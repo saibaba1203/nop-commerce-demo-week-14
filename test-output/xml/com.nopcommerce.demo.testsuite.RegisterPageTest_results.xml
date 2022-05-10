@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.994">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToRegisterPageSuccessfully" time="0.637" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="VerifyThatUserShouldCreateAccountSuccessfully" time="2.442" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatFirstNameLastNameEmailOasswordAndConfirmPasswordFieldsAreMandetory" time="0.915" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+      
+</testsuite>
